@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cowergigh.github.io/cowergigh.cowergigh
+Sitemap: https://cowergigh.github.io/app/cowergigh.cowergigh
+Sitemap: https://cowergigh.github.io/assets/cowergigh.cowergigh
+Sitemap: https://cowergigh.github.io/css/cowergigh.cowergigh
+Sitemap: https://cowergigh.github.io/includes/cowergigh.cowergigh
+Sitemap: https://cowergigh.github.io/item/cowergigh.cowergigh
+Sitemap: https://cowergigh.github.io/src/cowergigh.cowergigh
